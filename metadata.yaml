@@ -1,0 +1,34 @@
+_repo: The-Next-Time-We-Die_32683
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Robert Moore
+    birthdate: 1907
+    deathdate: 1977
+    gutenberg_agent_id: '33777'
+    url: http://www.gutenberg.org/2009/agents/33777
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Moore_Williams
+description: We journey to far places, driven on by ideals. We fight for lost causes,
+  sacrificing our lives because the things we fight for seem worthwhile. But are we
+  right? Are they worth being killed over? Perhaps. Then again, maybe we'll know better--the
+  next time we die.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Science fiction'
+title: The Next Time We Die
+url: http://www.gutenberg.org/ebooks/32683
